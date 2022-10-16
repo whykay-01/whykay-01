@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Web Development, Database management
 - 🌱 I’m currently learning Python (Django framework, NumPy, Matplotlib) and developing https://minicourse.shanghai.nyu.edu
 - 💞️ I’m looking to apply my technical skills in the real-life projects 
-- 📫 You can reach me via my email --> yk2602@nyu.edu
+- 📫 You can reach me via my email --> yan.k@nyu.edu or LinkedIn
 
 <!---
 whykay-01/whykay-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
