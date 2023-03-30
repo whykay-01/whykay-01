@@ -3,6 +3,8 @@ whykay-01/whykay-01 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- add telegram, email, and linkedIn icons here -->
+
 <h1 align="left">Hey, I'm Yan</h1>
 <h3 align="left"> I am a Computer Science student at NYU Shanghai and a Student Developer at NYU Shanghai RITS center</h3>
 
