@@ -42,7 +42,12 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<h3 align="left">For web development:</h3>
+<h3 align="left">Tools I use for the web development:</h3>
+<p align="left">
+
+</p>
+
+<h3 align="left">Database management tools I use:</h3>
 <p align="left">
 
 </p>
@@ -51,4 +56,5 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 </p>
+
 
