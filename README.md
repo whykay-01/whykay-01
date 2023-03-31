@@ -6,11 +6,13 @@ You can click the Preview link to take a look at your changes.
 <!-- add telegram, email, and linkedIn icons here -->
 
 <h1 align="left">Hey✌🏼, I'm Yan</h1>
-<h3 align="left"> I am a Computer Science student at NYU Shanghai and a Student Developer at NYU Shanghai RITS center</h3>
+<h3 align="left"> I am a Computer Science student at NYU Shanghai minoring in Math and Chinese Language</h3>
 
 - 🔭 I’m currently working on **my NLP research and studying BERT**
 
 - 🌱 I’m currently learning **ML principles and their application in the real life**
+
+- 📟 I'm currently working **as a Student Developer at NYU Shanghai Research and Instructional Technology Department**
 
 - 📫 How to reach me **yan.k@nyu.edu or my LinkedIn (links below)**
 
