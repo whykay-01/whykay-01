@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📟 I'm currently working **as a Student Developer at NYU Shanghai Research and Instructional Technology Department**
 
-- 📫 How to reach me **yan.k@nyu.edu or my LinkedIn (links below)**
+- 📫 Best way to reach me is via **yan.k@nyu.edu or my LinkedIn (links below)**
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
