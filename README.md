@@ -16,6 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 Best way to reach me is via **yan.k@nyu.edu or my LinkedIn (links below)**
 
+Here is the list of projects I have been involved with: 
+1) NYU Shanghai Research and Instructional Technology website: https://rits.hosting.nyu.edu/
+2) NYU Shanghai Minicourse Platfortm: https://minicourse.shanghai.nyu.edu/
+3) NYU Shanghai ChatGPT and Claude API web application: 
+
 <h3 align="left">How to reach me:</h3>
 <p align="left">
   <a href="mailto:yan.k@nyu.edu" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="email" height="30" width="40" /></a><a href="https://twitter.com/konichshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konichshev" height="30" width="40" /></a><a href="https://linkedin.com/in/yan-konichshev-0593b4183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-konichshev-0593b4183" height="30" width="40" /></a><a href="https://stackoverflow.com/users/14808318/whykay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="whykay" height="30" width="40" /></a><a href="https://kaggle.com/yankonichshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yankonichshev" height="30" width="40" /></a>
