@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 Here is the list of projects I have been involved with: 
 1) NYU Shanghai Research and Instructional Technology website: https://rits.hosting.nyu.edu/
 2) NYU Shanghai Minicourse Platfortm: https://minicourse.shanghai.nyu.edu/
-3) NYU Shanghai ChatGPT and Claude API web application: 
+3) NYU Shanghai ChatGPT and Claude API web application: https://chatgpt.ritsdev.top/
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
