@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- add telegram, email, and linkedIn icons here -->
 
-<h1 align="left">Hey✌🏼, I'm Yan</h1>
+<h1 align="left">Hi there, I'm Yan</h1>
 <h3 align="left"> I am a Computer Science student at NYU Shanghai minoring in Math and Chinese Language</h3>
 
-- 🔭 I’m currently working on **my NLP research exploring new ways of fine-tuning BERT**
+- 🔭 I’m currently working on **the NLP research**
 
 - 🌱 I’m currently learning **ML principles and their application in the real life**
 
