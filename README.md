@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **ML principles and their application in the real life**
 
-- 📟 I'm currently working **as a Student Developer at NYU Shanghai Research and Instructional Technology Department**
+- 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving efficiency of the IT center
 
 - 📫 Best way to reach me is via **yan.k@nyu.edu or my LinkedIn (links below)**
 
