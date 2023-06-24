@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **the NLP research**
 
-- 🌱 I’m currently learning **ML principles and their application in the real life**
+- 🌱 I’m currently learning **ML principles and their application in the real life** and the main principles of **White-hat hacking**
 
-- 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving efficiency of the IT center
+- 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving efficiency of the IT center.
 
 - 📫 Best way to reach me is via **yan.k@nyu.edu or my LinkedIn (links below)**
 
