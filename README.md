@@ -56,9 +56,9 @@ List of projects I have contributed to:
 <h3>Stats:</h3>
 
 <Br>
-    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whykay-01&theme=dark" style="width:100%"/>
+    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whykay-01&theme=dark" style="width:80%"/>
     
 <a href="https://github.com/nuhmanpk">
-    <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com?user=whykay-01&theme=dark" style="width:100%"/>
+    <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com?user=whykay-01&theme=dark" style="width:80%"/>
   </a>
 
