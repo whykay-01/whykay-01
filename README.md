@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving efficiency of the IT center.
 
-- 📫 Best way to reach me is via **[Email](mailto:yan.k@nyu.edu) or my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
+- 📫 Best way to reach me is via **[Email](mailto:yan.k+github@nyu.edu) or my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
 
 List of projects I have contributed to: 
 1) [NYU Shanghai Research and Instructional Technology website](https://rits.hosting.nyu.edu/) 
