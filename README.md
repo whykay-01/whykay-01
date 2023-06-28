@@ -53,4 +53,12 @@ Here is the list of projects I have been involved with:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
+<h3>Stats:</h3>
+
+<Br>
+    <img alt="summary-card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whykay-01&theme=dark" style="width:100%"/>
+    
+<a href="https://github.com/nuhmanpk">
+    <img alt="summary-card" src="https://github-readme-streak-stats.herokuapp.com?user=whykay-01&theme=dark" style="width:100%"/>
+  </a>
 
