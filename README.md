@@ -20,7 +20,7 @@ List of projects I have contributed to:
 1) [NYU Shanghai Research and Instructional Technology website](https://rits.hosting.nyu.edu/) 
 2) [NYU Shanghai Minicourse Platfortm](https://minicourse.shanghai.nyu.edu/)
 3) [NYU Shanghai ChatGPT and Claude API web application](https://chatgpt.ritsdev.top/)
-4) [Health First AI](https://health-first-ai.vercel.app/)
+4) [I am the COO @Health First AI, please check us out!!](https://health-first-ai.vercel.app/)
 5) [NYU Shanghai internal IT loaning dashboard](https://drive.google.com/file/d/1UKXMfQVqtk0NGlanh6DNLxfgmebsqEZ0/view?usp=sharing)
 
 <h3 align="left">How to reach me:</h3>
