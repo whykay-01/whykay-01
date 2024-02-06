@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **my side projects involving fundamental ML techniques**
 
-- 🌱 I’m currently learning **about best devops culture and social coding**.
+- 🌱 I’m currently learning **about best devops practices and social coding**.
 
 - 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving operational efficiency of the IT department.
 
