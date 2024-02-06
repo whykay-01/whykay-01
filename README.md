@@ -6,15 +6,15 @@ You can click the Preview link to take a look at your changes.
 <!-- add telegram, email, and linkedIn icons here -->
 
 <h1 align="left">Hi there, I'm Yan</h1>
-<h3 align="left"> I am a Computer Science student at NYU Shanghai minoring in Math and Chinese Language</h3>
+<h3 align="left"> I am a Computer Science student at NYU minoring in Math and Chinese Language</h3>
 
-- 🔭 I’m currently working on **my NLP research**
+- 🔭 I’m currently working on **my side projects involving fundamental ML techniques**
 
-- 🌱 I’m currently learning **ML principles and their application in the real life**.
+- 🌱 I’m currently learning **about best devops culture and social coding**.
 
 - 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving operational efficiency of the IT department.
 
-- 📫 Best way to reach me is via **[Email](mailto:yan.k+github@nyu.edu), my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
+- 📫 Best way to reach me is via **[Email](mailto:yan.k@nyu.edu), my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
 
 List of projects I have contributed to: 
 1) [NYU Shanghai Research and Instructional Technology website](https://rits.hosting.nyu.edu/) 
