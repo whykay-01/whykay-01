@@ -8,11 +8,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left">Hi there, I'm Yan</h1>
 <h3 align="left"> I am a Computer Science student at NYU minoring in Math and Chinese Language</h3>
 
-- 🔭 I’m currently working on **machine learning and big data side projects: coming soon!**
+- 🔭 I’m currently working on **machine learning and big data capstone projects: coming soon!**
 
-- 🌱 I’m currently learning **DevOps practices and social coding**.
-
-- 📟 I'm currently working **as a Student Developer at NYU Shanghai IT center** where I am working on automizing routine tasks and improving operational efficiency of the IT department.
+- 🌱 I’m currently learning more about **DevOps practices and social coding**.
 
 - 📫 Best way to reach me is via **[Email](mailto:yan.k@nyu.edu), my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
 
