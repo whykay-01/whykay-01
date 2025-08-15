@@ -6,22 +6,24 @@ You can click the Preview link to take a look at your changes.
 <!-- add telegram, email, and linkedIn icons here -->
 
 <h1 align="left">Hi, I'm Yan</h1>
-<h3 align="left"> I am a Computer Science student at NYU minoring in Math and Chinese Language</h3>
+<h3 align="left"> I am an aspiring software engineer with a BSc degree in computer science and math from NYU.</h3>
 
-- 🔭 I’m currently working on **machine learning and big data capstone projects: coming soon!**
+- 🔭 I’m currently working on **agentic AI** for a stealth start up. 
 
 - 🌱 I’m currently learning more about **DevOps practices and social coding**.
 
 - 📫 Best way to reach me is via **[Email](mailto:yan.k@nyu.edu), my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
 
+<!---
 List of projects I have contributed to: 
 1) [NYU Shanghai Research and Instructional Technology website](https://rits.hosting.nyu.edu/) 
 2) [NYU Shanghai Minicourse Platfortm](https://minicourse.shanghai.nyu.edu/)
 3) [NYU Shanghai ChatGPT and Claude API web application](https://chatgpt.ritsdev.top/)
-4) [I am the COO @Health First AI, please check us out!!](https://health-first-ai.vercel.app/)
+4) [I was the COO @Health First AI, please check us out!!](https://health-first-ai.vercel.app/)
 5) [NYU Shanghai internal IT loaning dashboard](https://drive.google.com/file/d/1UKXMfQVqtk0NGlanh6DNLxfgmebsqEZ0/view?usp=sharing)
+--->
 
-<h3 align="left">How to reach me:</h3>
+<h3 align="left">Reach out, let's connect!:</h3>
 <p align="left">
   <a href="mailto:yan.k@nyu.edu" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="email" height="30" width="40" /></a><a href="https://twitter.com/konichshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konichshev" height="30" width="40" /></a><a href="https://linkedin.com/in/yan-konichshev-0593b4183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-konichshev-0593b4183" height="30" width="40" /></a><a href="https://stackoverflow.com/users/14808318/whykay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="whykay" height="30" width="40" /></a><a href="https://kaggle.com/yankonichshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yankonichshev" height="30" width="40" /></a>
 
