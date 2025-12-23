@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <!-- add telegram, email, and linkedIn icons here -->
 
 <h1 align="left">Hi, I'm Yan</h1>
-<h3 align="left"> I am a software engineering intern at Skrooge AI with a BSc degree in computer science and math from NYU.</h3>
+<h3 align="left"> I am an AI engineer @ Wio Bank with a BSc degree in computer science and math from NYU.</h3>
 
 - 🌱 I’m currently learning more about **agentic AI, best DevOps practices, and social coding**.
 - 📫 Best way to reach me is via **[Email](mailto:yan.k@nyu.edu), my [LinkedIn](https://www.linkedin.com/in/yan-konichshev/)**
